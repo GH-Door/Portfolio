@@ -11,7 +11,7 @@
 ### Personal_Project
 (개인 프로젝트만 코드 리뷰 가능합니다.)
 
-1. [배틀그라운드 핵/버그 유저 탐지 및 분석](./Personal_Project/배틀그라운드/code/Anomaly_detection.ipynb) **Online Game**(ML/DL)
+1. [배틀그라운드 핵/버그 유저 탐지 및 분석](./Personal_Project/배틀그라운드/code/Anomaly_detection.ipynb) **Anomaly detection**(ML/DL)
 
 
 
