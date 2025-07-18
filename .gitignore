@@ -5,3 +5,5 @@ venv/
 .DS_Store
 *.csv
 *.pdf
+*.pptx
+/Zerobase_Project/PDF/
