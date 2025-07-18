@@ -15,7 +15,6 @@
 
 1. [배틀그라운드 핵/버그 유저 탐지 및 분석](./Side_Project/배틀그라운드/code/Anomaly_detection.ipynb) **Anomaly etection**(ML/DL)
 2. [리모델링이 주택 가격에 미치는 영향 분석](./Side_Project/리모델링/code/House_Remodeling.ipynb) **Regression analysis**(ML)
-3. [소비자 불만 유형 분석](./Side_Project/불만유형/code/voc_category_analysis.ipynb) **Text Analysis**(ML)
 
 
 
