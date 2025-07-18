@@ -6,7 +6,7 @@
 
 **🛠 Tool : Google Colab, Jupyter Notebook**
 
-**📅 진행기간 : 2024년 (기간 미상)**
+**📅 진행기간 : 2025.10 ~ 2025.11**
 
 **👥 인원 : 개인 프로젝트**
 
@@ -23,7 +23,7 @@
 
 # 프로세스
 <p align="center">
- <img src="../../image/PUBG-Process.png" width="1000">
+ <img src="../../image/PUBG-Process.png" width="800">
 <p>
 
 <br><br>
@@ -31,7 +31,7 @@
 # 데이터 수집
 
 <p align="center">
- <img src="../../image/PUBG-Preprocessing.png" width="1000">
+ <img src="../../image/PUBG-Preprocessing.png" width="800">
 <p>
 
 - **[Kaggle](https://www.kaggle.com/)** 에서 배틀그라운드 유저 데이터 수집
@@ -85,7 +85,7 @@
 ### 전체 분포
 
 <p align="center">
- <img src="../../image/PUBG-EDA.png" width="1000">
+ <img src="../../image/PUBG-EDA.png" width="800">
 <p>
 
 - 위 변수들의 분포 확인 결과 0값이 대부분의 분포를 차지하고 있음을 나타냄
@@ -96,7 +96,7 @@
 ### 승리 유저
 
 <p align="center">
- <img src="../../image/PUBG-EDA1.png" width="1000">
+ <img src="../../image/PUBG-EDA1.png" width="800">
 <p>
 
 - **승리 유저 비율**: **2.87%**
@@ -109,7 +109,7 @@
 ### 승리 VS 패배 유저 비교
 
 <p align="center">
- <img src="../../image/PUBG-EDA2.png" width="1000">
+ <img src="../../image/PUBG-EDA2.png" width="800">
 <p>
 
 - 승리 유저의 데이터가 수적으로 적음에도 불구하고, 패배 유저보다 높은 평균값을 보임
@@ -132,7 +132,7 @@
 # 비지도 학습
 
 <p align="center">
- <img src="../../image/PUBG-EDA4.png" width="1000">
+ <img src="../../image/PUBG-EDA4.png" width="800">
 <p>
 
 - **label**이 없기에 비지도 학습 기반 모델인 **Isolation Forest, AutoEncoder** 모델을 활용해 분리
@@ -150,7 +150,7 @@
 ### 모델 평가(간접)
 
 <p align="center">
- <img src="../../image/PUBG-Model1.png" width="1000">
+ <img src="../../image/PUBG-Model1.png" width="800">
 <p>
 
 - **ISO** Model : **음수 Score**영역이 클수록 **이상치로 탐지**
@@ -179,7 +179,7 @@
 3. **U-Test(가설 검정)**: **p-value** 값이 **0.05** 이하여야 그룹 간 통계적 의미가 유의미
 
 <p align="center">
- <img src="../../image/PUBG-검증.png" width="1000">
+ <img src="../../image/PUBG-검증.png" width="800">
 <p>
 
 <br><br>
@@ -192,7 +192,7 @@
 - 핵 유저의 극소수 비율(0.29%) 문제를 해결하기 위해 **SMOTE** 기법을 사용하여 2%로 늘려서 성능 비교
 
 <p align="center">
- <img src="../../image/PUBG-result.png" width="1000">
+ <img src="../../image/PUBG-result.png" width="800">
 <p>
 
 ### 주요 성과
