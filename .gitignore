@@ -9,3 +9,5 @@ venv/
 *.pkl
 *.pem
 /Zerobase_Project/PDF/
+
+*.tar
