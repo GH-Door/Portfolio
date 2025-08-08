@@ -6,4 +6,6 @@ venv/
 *.csv
 *.pdf
 *.pptx
+*.pkl
+*.pem
 /Zerobase_Project/PDF/

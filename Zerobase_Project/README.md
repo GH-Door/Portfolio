@@ -1,4 +1,4 @@
-## [초 개인화 보드게임 추천 시스템](/Team_Project/Board_Game/README.md)
+## [초 개인화 보드게임 추천 시스템](/Zerobase_Project/Board_Game/README.md)
 
 ### 문제 정의
 - 유저마다 게임 경험, 선호도가 크게 다르기에 일반적인 추천 시스템과는 다른 사용자의 취향을 반영한 초 개인화 보드게임 추천 시스템 개발
@@ -16,7 +16,7 @@
 <br>
 
 
-## [외국인 대상 영문 법령 검색 AI](/Team_Project/NLP/README.md)
+## [외국인 대상 영문 법령 검색 AI](/Zerobase_Project/NLP/README.md)
 
 ### 문제 정의
 - 외국인 대상 범죄가 자주 발생 하지만 범죄 관련 기타 다른 법령 검색은 쉽지 않다. 그렇기에 외국인을 위한 맞춤형 영문 법령 추천 AI 생성
@@ -34,7 +34,7 @@
 <br>
 
 
-## [지역별 음식 유행에 따른 상권 분석](/Team_Project/E-commerce/README.md)
+## [지역별 음식 유행에 따른 상권 분석](/Zerobase_Project/E-commerce/README.md)
 
 ### 문제 정의
 - 지역별 상권의 음식점 유형이 각종 요인에 어떤 영향을 받는지 분석하고, 이를 바탕으로 각 지역에 최적화된 창업 전략을 수립
