@@ -6,10 +6,6 @@
 
 ## 1. Competiton Info
 
-### Overview
-
-- _Write competition information_
-
 ### Timeline
 - 2025.05.01 - 2025.05.15
 
@@ -105,9 +101,3 @@ e.g.
 
 ![3조](./img/leaderboard.png)
 - 4th, Public Score : 11593.6103
-
-### Presentation
-- [발표자료.pdf](./docs/pdf/아파트가격예측모델_3조.pdf)
-- [KOSIS](https://kosis.kr)
-- [예금취금기관](https://ecos.bok.or.kr/)
-- [지가지수](https://www.reb.or.kr/)
