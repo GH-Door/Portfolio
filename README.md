@@ -22,6 +22,6 @@
 ### Upstage_Project
 (코드 리뷰 가능)
 
-1. [ML-Regression](./Upstage_Project/ML-Regression) **Regression**(ML)
-2. [CV-Classification](./Upstage_Project/CV-Classification) **Classification**(DL)
-3. [NLP-Summarization](./Upstage_Project/NLP-Summarization) **Summarization**(DL) 
+1. [ML-Regression](./Upstage_Project/ML-Regression) **Regression**(ML) · [회고록](https://gh-door.github.io/posts/ML-contest/)
+2. [CV-Classification](./Upstage_Project/CV-Classification) **Classification**(DL) · [회고록](https://gh-door.github.io/posts/bootcamp-DL-16/)
+3. [NLP-Summarization](./Upstage_Project/NLP-Summarization) **Summarization**(DL) · [회고록](https://gh-door.github.io/posts/bootcamp-DL-20/) 
