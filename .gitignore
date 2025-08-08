@@ -11,3 +11,4 @@ venv/
 /Zerobase_Project/PDF/
 
 *.tar
+*.sh
