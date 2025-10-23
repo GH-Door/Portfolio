@@ -1,0 +1,28 @@
+[project]
+name = "topic-modeling"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bertopic>=0.17.3",
+    "datasets>=4.2.0",
+    "hdbscan>=0.8.40",
+    "huggingface-hub>=0.35.3",
+    "ipykernel>=7.0.1",
+    "ipywidgets>=8.1.7",
+    "joblib>=1.5.2",
+    "matplotlib>=3.10.7",
+    "nltk>=3.9.2",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "plotly>=6.3.1",
+    "pyldavis>=3.4.1",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=5.1.1",
+    "tqdm>=4.67.1",
+    "umap-learn>=0.5.9.post2",
+    "webdataset>=1.0.2",
+    "wordcloud>=1.9.4",
+]
