@@ -1,7 +1,7 @@
 # Data Scientist / Analyst
------------------------------------------------------------
-## 목차(Contents)
-(목차의 프로젝트를 클릭시 상세내용으로 이동합니다.)
+
+## Contents
+(프로젝트를 클릭시 상세내용으로 이동합니다.)
 
 ### Side_Project
 (Code Review)
@@ -11,8 +11,8 @@
 
 ### Personal
 (Code Review)
-1. [배틀그라운드 핵/버그 유저 탐지 및 분석](./Personal/PUBG-Hack-Detection/code/Anomaly_detection.ipynb) **Anomaly Detection**(ML/DL)
-2. [리모델링이 주택 가격에 미치는 영향 분석](./Personal/Houes-Remodeling/code/House_Remodeling.ipynb) **Regression analysis**(ML)
+1. [배틀그라운드 핵/버그 유저 탐지 및 분석](./Personal/PUBG-Hack-Detection) **Anomaly Detection**(ML/DL)
+2. [리모델링이 주택 가격에 미치는 영향 분석](./Personal/Houes-Remodeling) **Regression analysis**(ML)
 
 -----------------------------------------------------------
 
