@@ -1,0 +1,12 @@
+[submodule "Side_Project/smartphone_defect_segmentation"]
+	path = Side_Project/smartphone_defect_segmentation
+	url = https://github.com/adhoc0909/smartphone_defect_segmentation.git
+[submodule "Upstage_AI_Lab/cv-classification"]
+	path = Upstage_AI_Lab/cv-classification
+	url = https://github.com/AIBootcamp13/upstageailab-cv-classification-cv_1.git
+[submodule "Upstage_AI_Lab/nlp-summarization"]
+	path = Upstage_AI_Lab/nlp-summarization
+	url = https://github.com/AIBootcamp13/upstageailab-nlp-summarization-nlp_1.git
+[submodule "Upstage_AI_Lab/langchain-pjt"]
+	path = Upstage_AI_Lab/langchain-pjt
+	url = https://github.com/AIBootcamp13/upstageailab-langchain-pjt-langchain_1.git
