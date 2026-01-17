@@ -11,5 +11,6 @@ venv/
 *.pem
 *.tar
 *.sh
+*.claude
 
 /백업
