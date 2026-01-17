@@ -12,7 +12,4 @@ venv/
 *.tar
 *.sh
 
-/Zerobase_Project/PDF/
-/Side_Project/Houes-Remodeling/week
-/Side_Project/HR-Analytics
-/Upstage_Project/langchain-kr
+/백업
