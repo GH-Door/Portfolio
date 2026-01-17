@@ -6,7 +6,7 @@
 ### Side_Project
 
 1. [Smartphone Defect Segmentation](https://github.com/GH-Door/smartphone_defect_segmentation) **Segmentation**(DL)
-2. [PCB Object Detection](https://github.com/GH-Door/PCB_object_detection) **Object Detection**
+2. [PCB Object Detection](https://github.com/GH-Door/PCB_object_detection) **Object Detection**(DL)
 
 -----------------------------------------------------------
 
