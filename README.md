@@ -12,7 +12,7 @@
 
 ### Personal
 
-1. [배틀그라운드 핵/버그 유저 탐지 및 분석](https://github.com/GH-Door/pubg_anomaly_detection) **Anomaly Detection**(ML/DL)
+1. [PUBG Anomaly Detection](https://github.com/GH-Door/pubg_anomaly_detection) **Anomaly Detection**(ML/DL)
 
 -----------------------------------------------------------
 
