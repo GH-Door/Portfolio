@@ -5,7 +5,6 @@ venv/
 .DS_Store
 */data
 *.csv
-*.pdf
 *.pptx
 *.pkl
 *.pem
@@ -14,3 +13,4 @@ venv/
 *.claude
 
 /백업
+/PDF
